@@ -18,6 +18,10 @@
 
 🖱️ Attraction/Repulsion from Mouse – Interact with boids using Mouse input.<br/>
 
+## Controls:
+Mouse button 1: Attract
+Mouse button 2: Repell
+
 
 ## Refrences 
 https://www.fab.com/listings/89e3ed6f-cacf-4dd7-87a2-db459b2d75f5 - bird model
