@@ -2,7 +2,7 @@
 
 ## For this university project, I developed a 3D Boid Simulation in Unreal Engine 5 using C++, implementing steering and flocking behavior AI. The project required both a functional simulation and a detailed code report based on a provided template.
 
-## Features:
+### Features:
 🗺️ Maps – Different environments for the boid simulation.<br/>
 ![Screenshot 2025-02-16 015803](https://github.com/user-attachments/assets/a2cf60e3-0047-4e49-8864-457439d0cab9)
 
