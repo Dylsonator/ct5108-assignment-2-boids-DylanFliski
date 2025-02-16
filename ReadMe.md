@@ -19,7 +19,7 @@
 🖱️ Attraction/Repulsion from Mouse – Interact with boids using Mouse input.<br/>
 
 ## Controls:
-Mouse button 1: Attract
+Mouse button 1: Attract<br/>
 Mouse button 2: Repell
 
 
